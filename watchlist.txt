@@ -1,6 +1,5 @@
 # One ticker per line. Lines starting with # are ignored.
 NOK
-# Add more tickers below, e.g.:
-# AAPL
-# MSFT
-# NVDA
+MSFT
+AAPL
+NFLX
