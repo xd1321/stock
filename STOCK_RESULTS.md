@@ -7,6 +7,31 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-09
+SURVIVORS (passed all 3 gates)
+-------------------------------
+AAPL — 2 REAL catalysts
+  Top REAL catalyst: iPhone 18 Pro/Pro Max + first foldable iPhone launch | Timing: 0-6mo (~Sept 2026) | Source: MacRumors (6/29/26)
+  Quality gate: 4/4 pass
+  Red flags noted: HIGH — competitive share loss to Huawei in China (Huawei ~25.6% vs Apple ~13.1% share; iPhone China sales -19% YoY May 2026), offset by only 1 MEDIUM (forward memory-cost margin guide), so did not trigger the 2+HIGH/1HIGH+multi-MEDIUM skip rule
+
+NFLX — 1 REAL catalyst
+  Top REAL catalyst: Live sports expansion (NFL Christmas Day 2026, WWE Raw) | Timing: 0-6mo | Source: Netflix Q1'26 8-K / earnings materials
+  Quality gate: 4/4 pass
+  Red flags noted: MEDIUM — revenue deceleration (Q1'26 +16.2% YoY vs Q2'26 guided +13.5%, FY26 guide 12-14% vs 2025's 16%) and MEDIUM competitive share loss to Amazon Prime Video (22% vs 21% US SVOD share, first time a rival has surpassed Netflix domestically); Q2 2026 earnings due 2026-07-16, not yet reported
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Advertising business scale-up, $2B+ annualized run-rate +50% YoY | Timing: 0-6mo | Source: The Motley Fool (3/21/26)
+  Quality gate: 3/4 pass (ROIC ~8.7-12.1% across sources, below 15% threshold)
+  Red flags noted: MEDIUM — robotaxi competitive dynamics (Waymo ended 3-year Phoenix ride-hail partnership with Uber, redirecting vehicles to DoorDash/Via; Waymo's own US robotaxi share fell 79%→69% Jan-Jun 2026 while Zoox rose 15%→25%)
+
+SKIPPED
+-------------------------------
+MSFT — Failed at Stage 1 — reason: 1 HIGH (gross margin fell to 67.6% from 68.7%, lowest since 2022, on capex/depreciation; Q4 FY26 operating margin guided down to ~44% from 46.3%) + 2 MEDIUM (Google Cloud growing 63% YoY vs Azure 40% and gaining share; Q4 FY26 revenue guide below consensus, stock down ~18% YTD with 4,800 jobs cut in July 2026), no offsetting bear-case edge identified
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail (2025-07-22 guidance cut still inside trailing 12mo window as of today, rolls off ~2026-07-22 — 13 days away), despite 3/4 quality checks passing (positive FCF, net cash €3.4bn, Q1'26 revenue +4% YoY) and a clean Stage 1 (worst flag: MEDIUM, Huawei/Ericsson RAN share pressure); ROIC also independently fails (~4.2-6.2%); insider activity was net buying, not selling
+
+---
+
 ## 2026-07-08
 SURVIVORS (passed all 3 gates)
 -------------------------------
