@@ -7,6 +7,31 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-13
+SURVIVORS (passed all 3 gates)
+-------------------------------
+AAPL — 2 REAL catalysts
+  Top REAL catalyst: Foldable iPhone/"iPhone Ultra" launch | Timing: 0-6mo (~Sept 2026) | Source: MacDailyNews/UBS China share data (6/17/26); catalyst timing per prior coverage
+  Quality gate: 4/4 pass
+  Red flags noted: HIGH — Huawei China share gains (iPhone China sales -19% YoY May 2026, Apple China share 16%→11%); new MEDIUM item since 7/9: Tim Cook stepping down as CEO effective Sept 1 2026, John Ternus taking over (orderly transition, largely priced in); insider selling by director Levinson (~$86.8M in 90 days) noted but unconfirmed as unscheduled — did not trigger AUTO-FAIL given routine multi-tranche pattern
+
+NFLX — 1 REAL catalyst
+  Top REAL catalyst: Live sports expansion (NFL Christmas Day 2026, WWE Raw, dynamic ad insertion) | Timing: 0-6mo | Source: SEC 8-K Q1'26 press release
+  Quality gate: 4/4 pass
+  Red flags noted: MEDIUM — margin/guidance pattern (FY26 op-margin guide 31.5%, below Street's ~32%; guidance only maintained not raised despite Q1'26 beat) and MEDIUM competitive dynamics (Amazon Prime Video passed Netflix in subscriber-share surveys 20% vs 19%, though Nielsen Gauge viewing-time data still shows Netflix well ahead); Q2 2026 earnings due 2026-07-16, not yet reported
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Advertising business scale-up, $2B+ annualized run-rate +50% YoY | Timing: 0-6mo | Source: Q4'25 press release / Dealroom coverage
+  Quality gate: 3/4 pass (ROIC ~12.04% TTM, below 15% threshold)
+  Red flags noted: MEDIUM — Waymo-Uber Phoenix robotaxi partnership formally ended late June 2026 (vehicles reassigned to DoorDash/Via), while Tesla robotaxi expands into Phoenix, Las Vegas, Miami, Orlando, Tampa — confirms and escalates the competitive risk flagged 7/9
+
+SKIPPED
+-------------------------------
+MSFT — Failed at Stage 1 — reason: 1 HIGH (gross margin compressed 4 straight quarters to 67.6%, lowest since 2022; Q4 FY26 op-margin guided to ~44% from 46.3%, FCF -22% YoY in Q3 FY26) + 2 MEDIUM (Google Cloud growing 63% YoY vs Azure 40%; Q4 FY26 revenue guide below consensus, stock down ~19% YTD, 4,800 jobs cut). Q4 FY26 earnings not yet reported (due 2026-07-29); independently reconfirms 7/9 conclusion
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail (2025-07-22 guidance cut still inside trailing 12mo window as of today, rolls off 2026-07-22 — 9 days away), despite 3/4 quality checks passing (positive FCF, net cash €3.8bn, Q1'26 revenue +4% YoY) and a clean Stage 1 (worst flag: MEDIUM, guidance-cut overhang since reversed by two subsequent guidance raises). ROIC (9.10%) also independently fails the 15% bar; insider activity was net buying, not selling
+
+---
+
 ## 2026-07-09
 SURVIVORS (passed all 3 gates)
 -------------------------------
