@@ -7,6 +7,31 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-14
+SURVIVORS (passed all 3 gates)
+-------------------------------
+AAPL — 2 REAL catalysts
+  Top REAL catalyst: Siri AI / Apple Intelligence overhaul (Gemini-powered, announced WWDC June 2026) | Timing: 6-12mo, rolling out with iOS 27 through late 2026 | Source: MacRumors (6/8/26)
+  Quality gate: 4/4 pass
+  Red flags noted: MEDIUM — Huawei regaining #1 China smartphone position (Counterpoint Research, Apr 2026), amid a memory-chip supply crunch that's actually boosting both Apple and Huawei vs mid-tier Android rivals; also MEDIUM CEO transition (Cook→Ternus effective Sept 1, 2026) and MEDIUM tariff cost headwind ($1.1B guided next quarter)
+
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: AI/Copilot commercial backlog ($392B RPO, +51% YoY) converting into recognized Azure/Cloud revenue | Timing: 6-12mo | Source: Microsoft FY26 Q1 Investor Relations (10/29/25)
+  Quality gate: 4/4 pass
+  Red flags noted: MEDIUM — gross margin compressed to 67.6% in Q3 FY26 (narrowest since 2022) from AI infrastructure depreciation. NOTE: this reverses the Stage-1 SKIP calls on 7/9 and 7/13, which rated the same margin compression HIGH severity; today's research rated it MEDIUM instead. Q4 FY26 earnings (due 2026-07-29, not yet reported) will be the next real test of this margin trend — treat today's survivor call with caution pending that print
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Uber Ads business scaling past $2B annualized revenue run-rate (+50%+ YoY, 80%+ gross margin), targeting $3-4B within 24 months | Timing: 6-12mo | Source: The Motley Fool (3/21/26) / Q4'25 earnings commentary
+  Quality gate: 3/4 pass (ROIC ~8-12% TTM across sources, below 15% threshold and below WACC of 12.7%)
+  Red flags noted: MEDIUM — Q4 2025 EPS miss (-$0.12 vs consensus, driven by $1.6B non-operating Aurora/Grab stake revaluation) plus FY2026 consensus EPS cut ~12% ($3.37→$2.95) tied to rising insurance costs and mix-shift to lower-margin rides; Waymo competitive escalation continues (weekly rides ~200k→400-500k YoY, Uber-Waymo Phoenix pilot ended)
+
+SKIPPED
+-------------------------------
+NFLX — Failed at Stage 2 — reason: Quality Floor auto-fail (FY2025 operating-margin guidance cut 30%→29% at Oct 2025 Q3 report, still inside trailing 12mo window as of today), despite 4/4 quality checks passing (ROIC ~29%, FCF +$11.9B TTM, Net Debt/EBITDA ~0.06x, revenue +16% YoY) and a clean Stage 1 (worst flags MEDIUM: guidance-reliability pattern, Amazon Prime Video/Disney+ competitive pressure). Q2 2026 earnings due 2026-07-16, not yet reported; cut was tax-dispute-driven (Brazil), not demand-related
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail (2025-07-22 guidance cut still inside trailing 12mo window as of today, rolls off in 8 days on 2026-07-22), despite 3/4 quality checks passing (positive FCF, net cash €3.8bn, Q1'26 revenue +4% YoY) and a clean Stage 1 (worst flags MEDIUM: margin compression since reversed, Huawei/Ericsson RAN share pressure, guidance cut since reversed by beat-and-raise). ROIC (~4-6%) also independently fails the 15% bar; insider activity was net buying, not selling
+
+---
+
 ## 2026-07-13
 SURVIVORS (passed all 3 gates)
 -------------------------------
