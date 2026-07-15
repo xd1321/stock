@@ -7,6 +7,29 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-15
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Q4 FY26 earnings report | Timing: 0-6mo (2026-07-29) | Source: Microsoft IR earnings release schedule
+  Quality gate: 4/4 pass (ROIC ~23-26%, TTM FCF $77.4B, net cash position/Debt-EBITDA 0.28x, revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed to 67.6% (from 68.7% YoY) on AI-infra depreciation, Q4 FY26 operating margin guided down to ~44% from 46.3%; CY2026 capex guide of ~$190B came in ~$35B above consensus, spooking the stock -4% on 4/30/26
+
+NFLX — 2 REAL catalysts
+  Top REAL catalyst: Live sports/NFL expansion (5 games incl. Thanksgiving + 2 Christmas Day + Week 18 + Australia game) and ad-tech dynamic insertion rollout | Timing: 6-12mo (Q4 2026) | Source: Yahoo Finance / Hollywood Reporter (2026)
+  Quality gate: 4/4 pass (ROIC 29.5%, TTM FCF $11.9B +59.7% YoY, net debt/EBITDA ~0.4x, revenue +16% YoY Q1'26)
+  Red flags noted: MEDIUM — revenue deceleration (Q1'26 +16% YoY, Q2'26 guided +13.5%, FY26 guide 12-14% vs FY25's 16%) plus Amazon Prime Video now ~22% US SVOD share vs Netflix's ~21%, first domestic overtake by a rival; Q2 2026 earnings due 2026-07-16, not yet reported as of this run
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Robotaxi/AV network expansion — Lucid+Nuro owned-fleet deal (20,000 Gravity SUVs, Bay Area launch late 2026), target of 10+ countries with robotaxi service by year-end 2026 | Timing: 6-12mo | Source: Uber-Nuro-Lucid press release / Q1'26 earnings call (5/6/26)
+  Quality gate: 3/4 pass (ROIC 8.7-12.1%, below 15% threshold; FCF, net debt/EBITDA ~0.5x, and revenue growth all pass)
+  Red flags noted: MEDIUM — Waymo ended its 3-year Phoenix ride-hail partnership with Uber (May 2026), Waymo's robotaxi user share fell 79%→69% Jan-Jun 2026 while Zoox rose 15%→25%; also revenue/margin figures currently distorted by an accounting reclassification (driver payments moved to contra-revenue) inflating reported gross margin +510bps
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 1 — reason: 1 HIGH (Huawei ~31% global RAN share vs Nokia 14-17.6%, falling; Nokia Greater China revenue -19% YoY FY2025) + 2 MEDIUM (2025-07-22 guidance cut still inside trailing-12mo window by ~1 week; revenue growth volatile/decelerating off Q3'25 spike), no offsetting bear-case edge; independently confirmed by a Stage 2 Quality Floor auto-fail on the same guidance-cut timing
+AAPL — Failed at Stage 1 — reason: 1 HIGH (guided FQ3 FY26 gross margin compression to 46.5-47.5% on DRAM/NAND cost inflation, steepest guided sequential contraction since 2019, Mac/iPad prices already raised up to 18%) + 2 MEDIUM (Huawei remains #1 in China at 22.6% share vs Apple 18.1%; Chairman Arthur Levinson sold $86.75M in shares over two unscheduled-appearing transactions in the trailing 90 days — 10b5-1 plan status could not be confirmed via SEC filings after repeated searches, treated conservatively as unscheduled), triggering the "1 HIGH + multiple MEDIUM" skip rule despite otherwise strong fundamentals (TTM FCF ~$129B, net cash position, accelerating revenue +17% YoY)
+
 ## 2026-07-14
 SURVIVORS (passed all 3 gates)
 -------------------------------
