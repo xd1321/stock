@@ -7,6 +7,38 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-16
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Azure/AI revenue acceleration into Q4 FY26 earnings (AI run-rate $37B, +123% YoY) | Timing: 0-6mo | Source: Microsoft FY26 Q3 IR release; Benzinga/Yahoo analyst notes (5/26)
+  Quality gate: 4/4 pass (ROIC ~21.5-21.9%, TTM FCF positive all 4 quarters incl. $47.35B Q3 FY26, net debt/EBITDA ~0.06x, revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed ~70.1%→~68% (Mar'24→Mar'26) on AI infrastructure depreciation; $190B CY26 capex guide spooked the stock -3.9% despite an across-the-board beat
+
+AAPL — 2 REAL catalysts
+  Top REAL catalyst: iPhone 18 Pro/foldable iPhone launch with major Siri/Apple Intelligence overhaul (Sept 2026 event) | Timing: 0-6mo | Source: MacRumors iPhone 18 roundup (July 2026)
+  Quality gate: 4/4 pass (ROIC ~38-51%, TTM FCF positive incl. $26.7B Q1 FY26, net cash position, revenue +17% YoY Q2 FY26)
+  Red flags noted: MEDIUM — Huawei leads China smartphone share (22.6% vs Apple 18.1%, Q2 2026 IDC/Counterpoint) though Apple is growing ~20% YoY; Director Arthur Levinson sold ~$86M in May 2026, 10b5-1 status unconfirmed in filings
+
+UBER — 3 REAL catalysts
+  Top REAL catalyst: Multi-partner AV rollout to 15+ cities by year-end 2026 (Waymo, Nuro, Motional, Wayve, MOIA) | Timing: 6-12mo | Source: businesstravelnewseurope.com; investor.uber.com MOIA release
+  Quality gate: 3/4 pass (ROIC ~8.7% TTM, below 15% threshold; FCF, net debt/EBITDA ~0.47x, and revenue growth +14% YoY all pass)
+  Red flags noted: MEDIUM — Waymo transitioning from partner to direct competitor in Dallas/London/SF by late 2026; otherwise margins expanding and guidance raised each quarter
+
+NFLX — 1 REAL catalyst
+  Top REAL catalyst: Expanded live-sports slate (NFL grown to 5 games under new 4-year pact through 2029-30, plus weekly WWE Raw) driving incremental ad inventory | Timing: 0-12mo | Source: Variety "Netflix Will Stream Five NFL Games" (2026); frontofficesports.com
+  Quality gate: 4/4 pass (ROIC ~24-25%, TTM FCF positive all 4 quarters incl. $5.1B Q1'26, net debt/EBITDA ~0.06x, revenue +16.2% YoY Q1'26)
+  Red flags noted: MEDIUM — mixed guidance/earnings surprise history (2 beats/2 misses trailing 4 quarters, avg -4.79% surprise); Amazon Prime Video now edges Netflix in US streaming share (22% vs 21%)
+
+NOK — 2 REAL catalysts
+  Top REAL catalyst: Optical/IP hyperscaler order acceleration (2026 growth guidance raised to 18-20% from 10-12%, AI/cloud sales +49% YoY) | Timing: 0-6mo | Source: Nokia Q1 2026 report (4/23/26); Investing.com
+  Quality gate: 3/4 pass (ROIC ~1.99% TTM, below 15% threshold; FCF positive all 4 quarters, net cash position ~€3.4B, revenue +4% YoY Q1'26 constant currency)
+  Red flags noted: MEDIUM — operating margin compressed 11.2%→9.0% and gross margin -150bps in Q3 2025, though reversed in Q1 2026 with +200bps/+320bps expansion
+
+SKIPPED
+-------------------------------
+None
+
 ## 2026-07-15
 SURVIVORS (passed all 3 gates)
 -------------------------------
