@@ -7,6 +7,33 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-17
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Azure capacity build-out unlocking $80B order backlog / growth reacceleration | Timing: 6-12mo | Source: Global Data Center Hub — Microsoft Q3 FY2026 $190B capex plan; Microsoft FY26 Q3 press release
+  Quality gate: 4/4 pass (ROIC ~21-26% TTM, FCF positive every quarter incl. TTM ~$72.9B though -22% YoY latest qtr, Net Debt/EBITDA ~0.3x, revenue +18% YoY Q3 FY26)
+  Red flags noted: HIGH — gross margin compressed 70.1%→67.6% and operating margin 48.9%→46% (guided to ~44%) for 4 straight quarters on AI-infra capex; FCF down 22% YoY in latest quarter
+
+AAPL — 1 REAL catalyst
+  Top REAL catalyst: First foldable iPhone ("iPhone Fold"/"iPhone Ultra") launch, ~$2,000+ ASP, new product category | Timing: 0-6mo (Sept 2026) | Source: MacRumors (6/21/26); MacDailyNews (5/15/26)
+  Quality gate: 4/4 pass (ROIC 54.2% TTM, FCF $129.2B TTM, net cash position ~$62B, revenue +17% YoY Q2 FY26)
+  Red flags noted: MEDIUM — Huawei retook China smartphone lead (22.6% vs Apple 18.1% share, Q2 2026 IDC); Apple now paying ~$1B/yr to Google for Gemini-powered Siri rebuild; $86.7M Levinson insider sale in trailing 90 days, 10b5-1 status unconfirmed (EDGAR fetch blocked)
+
+NFLX — 1 REAL catalyst
+  Top REAL catalyst: Live sports expansion (NFL Christmas Day 2026 games, weekly WWE Raw, FIFA Women's World Cup rights) driving incremental ad/engagement upside beyond current guidance | Timing: 0-6mo | Source: 247wallst.com (4/6/26); Yahoo Finance NFL upside thesis
+  Quality gate: 4/4 pass (ROIC ~25-29% TTM, FCF positive all 4 quarters incl. $1.525B Q2'26, Net Debt/EBITDA ~0.31x, revenue +13% YoY Q2'26)
+  Red flags noted: MEDIUM — two consecutive quarters (Q1'26, Q2'26) of forward guidance disappointing consensus, each triggering 8-9% after-hours drops; management reducing forward engagement-metric disclosure
+
+UBER — 1 REAL catalyst
+  Top REAL catalyst: AV/robotaxi network scaling (20 partnerships incl. Waymo, WeRide, Nuro/Lucid, Avride; targeting 15 global cities/10+ countries by end-2026, autonomous trips ~10x YoY) | Timing: 6-12mo | Source: automotiveworld.com; Uber Q1'26 earnings call
+  Quality gate: 3/4 pass (FCF positive TTM ~$9.8B, Net Debt/EBITDA ~0.5x, revenue +14% reported/+10% cc YoY with bookings +25%; ROIC ~9-12% TTM FAILS vs 15% bar)
+  Red flags noted: MEDIUM — $14.8B all-cash Delivery Hero acquisition (announced 7/16/26) raises capital-discipline and EU antitrust/regulatory-risk concerns; market reacted skeptically rather than pricing it as a clean positive
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail (FY2025 op-profit guidance cut on 2025-07-22 falls within trailing 12mo by ~5 days, despite 3/4 quality checks passing and two subsequent guidance raises)
+
 ## 2026-07-16
 SURVIVORS (passed all 3 gates)
 -------------------------------
