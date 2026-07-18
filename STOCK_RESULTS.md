@@ -7,6 +7,27 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-18
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 3 REAL catalysts
+  Top REAL catalyst: FY26 Q4 earnings report (Azure/AI reacceleration continuing 4-quarter beat streak) | Timing: 0-6mo (2026-07-29) | Source: news.microsoft.com IR release (7/8/26); CNBC/Yahoo Finance Q3 FY26 recap (4/29/26)
+  Quality gate: 4/4 pass (ROIC ~21-26% TTM, FCF TTM $72.9B +5% YoY, Net debt ~$10B vs EBITDA ~$160B <1x, revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed to 67.6-68% (from ~70% YoY), operating margin guided to 44% for Q4 FY26 (vs 46.3% prior year) on $190B FY26 capex plan, +61% YoY and ~$35B above consensus
+
+AAPL — 3 REAL catalysts
+  Top REAL catalyst: Foldable iPhone ("iPhone Fold"/Ultra) launch alongside iPhone 18 Pro | Timing: 0-6mo (~Sept 2026) | Source: Bloomberg "Apple's Foldable iPhone Remains on Track for September Debut" (Apr 2026); MacRumors
+  Quality gate: 4/4 pass (ROIC ~40-50% TTM, FCF TTM ~$129B, net cash ~$61.9B, revenue +17% YoY Q2 FY26)
+  Red flags noted: MEDIUM-HIGH — director Arthur Levinson sold ~$86.7M combined (5/6/26 + 5/27/26), both still inside trailing-90-day window as of 7/18/26; 10b5-1 status remains unconfirmed (SEC EDGAR blocked by proxy policy), though the recurring cadence looks consistent with routine/scheduled selling
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail persists (2025-07-22 guidance cut still 4 days inside trailing-12mo window as of today; rolls off 2026-07-22, one day before Q2 2026 earnings 7/23/26); 3/4 quality checks pass (FCF, net cash, revenue +4% YoY) but ROIC ~2% TTM also independently fails
+NFLX — Failed at Stage 1 — reason: 1 HIGH (2nd consecutive quarter of below-consensus guidance following Q2'26 earnings 7/16/26, stock hit 52-week low $66.88, multiple analyst price-target cuts) + 2 MEDIUM (revenue deceleration 4 straight quarters +18%→+16%→+13%→guided +11.7%; Amazon Prime Video now leads US streaming share 22% vs Netflix 21%)
+UBER — Failed at Stage 1 — reason: 2 HIGH ($14.8B all-cash Delivery Hero acquisition facing long EU antitrust review requiring $1.6B forced divestitures, close not targeted until H2 2027, stock "trapped below $78" post-announcement; Uber-Waymo Phoenix robotaxi pilot ended 6/29/26 amid public spat, DoorDash outgrowing Uber Eats) + 1 MEDIUM guidance miss
+
+---
+
 ## 2026-07-17
 SURVIVORS (passed all 3 gates)
 -------------------------------
