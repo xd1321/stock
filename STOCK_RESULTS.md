@@ -7,6 +7,31 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-19
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: AI/Copilot monetization ramp (20M+ paid Copilot seats, +250% YoY seat growth, $37B AI ARR +123% YoY) | Timing: 6-12mo | Source: Microsoft FY26 Q3 earnings call / Alphastreet (Apr-May 2026)
+  Quality gate: 4/4 pass (ROIC ~21% TTM; FCF TTM ~$72.9B; Net Debt/EBITDA ~0.1x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross/cloud margin compression (GM 67.6%, lowest since 2022; Microsoft Cloud margin 68%→66% over 3 quarters) driven by AI capex depreciation
+
+NFLX — 2 REAL catalysts
+  Top REAL catalyst: Record-pace $25B buyback authorization (4/22/26), $4.7B repurchased in Q2 2026 alone, $27.1B capacity remaining | Timing: 0-6mo (ongoing) | Source: Globe and Mail (4/22/26); Shacknews Q2'26 buyback recap
+  Quality gate: 4/4 pass (ROIC ~24-25% TTM; FCF $11.9B TTM; Net Debt/EBITDA ~0.3x; Revenue +13.4% YoY Q2'26)
+  Red flags noted: MEDIUM — guidance/disclosure credibility: two consecutive quarters (Apr & Jul 2026) of 9-11% stock drops on soft forward guidance plus reduced engagement-metric disclosure cadence; Barclays "losing narrative control" call, PT cut to $80
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Q2 2026 earnings (8/5/26) — continued Adj. EBITDA margin expansion + insurance-driven cost savings vs. already-raised guidance ($0.78-0.82 EPS, 18-22% bookings growth) | Timing: 0-6mo | Source: Uber Q1 2026 earnings call; TipRanks Q2'26 guidance
+  Quality gate: 3/4 pass (FCF positive all 4 quarters; Net Debt/EBITDA ~0.53x; revenue +14% YoY Q1'26; ROIC ~12% fails 15% bar)
+  Red flags noted: MEDIUM-HIGH — Waymo ended Phoenix Uber-app robotaxi tie-up (6/29/26), now partnering with DoorDash on deliveries; Uber's replacement AV partner in Phoenix unnamed as of research date
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail persists (FY2025 guidance cut 7/22/25 still 3 days inside trailing-12mo window as of 7/19/26, rolls off 7/22/26); 3/4 quality checks otherwise pass (FCF, net cash, revenue +4% YoY), only ROIC (~4-6%) independently fails
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail — director Arthur Levinson sold ~$86.75M in AAPL stock (5/6/26 + 5/27/26 open-market sales, no confirmed 10b5-1 plan), exceeding the $50M/90-day unscheduled-insider-sell threshold, despite 4/4 binary quality checks passing (ROIC ~50%, FCF, net cash, revenue +17% YoY)
+
+---
+
 ## 2026-07-18
 SURVIVORS (passed all 3 gates)
 -------------------------------
