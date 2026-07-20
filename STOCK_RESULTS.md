@@ -7,6 +7,27 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-20
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 3 REAL catalysts
+  Top REAL catalyst: Azure commercial RPO backlog conversion ($627B backlog, +99% YoY, power/cooling-constrained not demand-constrained, ~45% OpenAI) | Timing: 6-12mo | Source: Microsoft FY26 Q3 earnings call (4/29/26); Datacenter Knowledge / GlobalDataCenterHub $190B capex coverage
+  Quality gate: 4/4 pass (ROIC ~21-23% TTM; FCF positive all 4 quarters, Q3 FY26 $47.35B; Net Debt/EBITDA ~0.23x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compression to ~68% (narrowest in 3 years) on AI infrastructure depreciation/component cost inflation; Q4 FY26 operating margin guided down to ~44% from 46.3%
+
+UBER — 3 REAL catalysts
+  Top REAL catalyst: Delivery Hero acquisition ($14.8B equity value, announced 7/16/26, expands Uber Eats to 99 markets, pro-forma $236B combined Gross Bookings) | Timing: 6-18mo (pending EU regulatory review) | Source: Bloomberg, TechCrunch, Uber IR (7/16/26)
+  Quality gate: 3/4 pass (FCF positive all 4 quarters; Net Debt/EBITDA ~0.5x; Revenue +14.5% YoY Q1'26; ROIC ~8.7-12.1% fails 15% bar)
+  Red flags noted: MEDIUM — Uber and Waymo ended their 3-year Phoenix robotaxi partnership (6/29/26), exposing Uber's partner-dependent AV marketplace strategy as Waymo builds proprietary distribution; no quantified financial damage yet, Uber countering with $10B+ in alternative AV partnerships (Lucid, Nuro, Rivian)
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail — FY2025 guidance cut (7/23/25, -€310M op-profit) still falls inside the strict trailing-12mo window as of 7/20/26 by 3 days (borderline/stale, since reversed by an April 2026 guidance raise); ROIC (~4-6%) also independently fails the 15% bar regardless
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail — director Arthur Levinson's ~$86.7M combined open-market sales (5/6/26 + 5/27/26, no disclosed 10b5-1 plan) remain fully inside the trailing 90-day window as of 7/20/26, exceeding the $50M threshold, despite 4/4 binary quality checks passing (ROIC ~39-51%, FCF, net cash, revenue +17% YoY)
+NFLX — Failed at Stage 1 — reason: 2 HIGH-severity flags — Q3'26 revenue guidance ($12.86B, ~11.7-12% YoY) missed Street estimates and Netflix is cutting engagement-disclosure cadence (stock fell 8-11%, 7/17-20/26; Barclays cut PT to $80 citing "losing narrative control"), plus Paramount Skydance/WBD merger would create a combined ~22% US streaming share rival, tying/surpassing Netflix's own ~21%
+
+---
+
 ## 2026-07-19
 SURVIVORS (passed all 3 gates)
 -------------------------------
