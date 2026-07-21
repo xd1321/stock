@@ -7,6 +7,27 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-21
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: FY26 Q4 earnings report (beat-and-raise streak continuation, Azure/AI reacceleration) | Timing: 0-6mo (2026-07-29) | Source: Microsoft IR (microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4)
+  Quality gate: 4/4 pass (ROIC ~21-23% TTM; FCF positive all 4 quarters, TTM ~$72.9-77B; Net Debt/EBITDA ~0.1-0.3x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed to ~67.6-68% (narrowest since 2022) on AI-infra depreciation; Q4 FY26 operating margin guided down to ~44% from 46.3%; Citi/Mizuho trimmed price targets ahead of 7/29 print on capex-digestion concerns
+
+UBER — 3 REAL catalysts
+  Top REAL catalyst: Q2 2026 earnings report (confirmed 8/5/26 pre-market, guided to 18-22% cc gross bookings growth) | Timing: 0-6mo | Source: Uber IR press release; Q1 2026 earnings call (5/6/26)
+  Quality gate: 3/4 pass (FCF positive, TTM ~$9-10B; Net Debt/EBITDA ~0.5x; Revenue +14% YoY Q1'26; ROIC ~8.7-12% fails 15% bar)
+  Red flags noted: MEDIUM-HIGH — Uber-Waymo relationship deteriorated from Phoenix pilot ending (6/29/26) into open regulatory conflict, with Uber lobbying against a D.C. driverless-testing bill Waymo supports (TechCrunch, 7/13/26: "collision course")
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: Quality Floor auto-fail — FY2025 guidance cut (7/22/25) is 364 days old as of 7/21/26, still 1 day inside the trailing-12mo window (rolls off 7/22/26, the day before Q2'26 earnings 7/23/26); ROIC (~0.4-6%) also independently fails the 15% bar; otherwise 3/4 quality checks pass and guidance trend has turned positive (April 2026 raise) — live candidate to flip to SURVIVOR as early as tomorrow
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail — director Arthur Levinson's ~$86.7M combined unscheduled open-market sales (5/6/26 + 5/27/26, no confirmed 10b5-1 plan) remain inside the trailing 90-day window as of 7/21/26 (don't age out until 8/4/26 and 8/25/26), despite 4/4 binary quality checks passing (FCF ~$129B TTM, net cash, revenue +17% YoY, ROIC well above 15%)
+NFLX — Failed at Stage 1 — reason: 2 HIGH-severity flags — Q3'26 revenue guidance ($12.86B, ~11.7-12% YoY) below the +13-16% pace of prior quarters, 2nd consecutive quarterly guidance disappointment with reduced disclosure cadence ("losing narrative control," Barclays PT cut to $80), stock still sliding toward 52-week low as of 7/20/26 close; plus Paramount Skydance/WBD merger creating a ~22% US streaming-share rival matching Netflix's own ~21%
+
+---
+
 ## 2026-07-20
 SURVIVORS (passed all 3 gates)
 -------------------------------
