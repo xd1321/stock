@@ -7,6 +7,32 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-22
+SURVIVORS (passed all 3 gates)
+-------------------------------
+NOK — 3 REAL catalysts
+  Top REAL catalyst: Optical+IP FY2026 growth guidance raised to 18-20% (from 10-12%) on AI/hyperscaler demand + Infinera synergies, next test at Q2'26 earnings | Timing: 0-6mo | Source: Nokia Q1 2026 Interim Report; Investing.com "Nokia Q1 2026 slides: AI boom drives guidance raise" (Apr 2026)
+  Quality gate: 3/4 pass (ROIC ~0.4-6.2% fails 15% bar; FCF positive all 4 quarters; net cash position €3.8B Q1'26; Revenue +4% YoY Q1'26)
+  Red flags noted: MEDIUM — margin compression, Q3'25 gross margin -150bps YoY to 44.2%, Q4'25 operating margin -90bps YoY to 17.3%
+  Note: flipped from SKIP to SURVIVOR today — the FY2025 guidance cut (7/22/25) rolled off the trailing-12mo Quality Floor window exactly as of today
+
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: FY26 Q4 earnings report (0-6mo, 2026-07-29) | Timing: 0-6mo | Source: Microsoft IR (microsoft.com/en-us/investor)
+  Quality gate: 4/4 pass (ROIC ~21-27% TTM; FCF positive all 4 quarters, TTM ~$71.6-77B; Net Debt/EBITDA ~0.23x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed to 67.6% (narrowest since 2022) on AI-infra depreciation; securities class-action pending re: Copilot-adoption disclosures (lead-plaintiff deadline 8/11/26)
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Q2 2026 earnings report (confirmed 8/5/26 pre-market, guided to 18-22% cc gross bookings growth) | Timing: 0-6mo | Source: Uber IR (investor.uber.com)
+  Quality gate: 3/4 pass (FCF positive, Q1'26 $2.3B; Net Debt/EBITDA ~0.5x; Revenue +14% YoY Q1'26; ROIC ~8.7-12% fails 15% bar)
+  Red flags noted: HIGH — Tesla Cybercab robotaxi entry plus escalating Uber-Waymo regulatory conflict (Phoenix pilot ended 6/29/26, Uber lobbying against DC AV bill Waymo backs); stock down ~31% from 52-wk high, Melius cut to Sell (PT $73)
+
+SKIPPED
+-------------------------------
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail persists — director Arthur Levinson's $86.75M combined unscheduled open-market sales (5/6/26 $71.2M + 5/27/26 $15.55M, no confirmed 10b5-1 plan) remain inside the trailing 90-day window as of 7/22/26 (age out 8/4/26 and 8/25/26); 4/4 binary quality checks otherwise pass; note — Tim Cook announced stepping down as CEO effective 9/1/26, John Ternus to succeed
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — revenue growth decelerating 5 straight quarters (18%→16%→13.4%→12% guided Q3'26); 2nd consecutive guidance-driven selloff (~10% drop 7/17/26, PT cuts to $70-85, new 52-wk low $65.08)
+
+---
+
 ## 2026-07-21
 SURVIVORS (passed all 3 gates)
 -------------------------------
