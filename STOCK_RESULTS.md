@@ -7,6 +7,27 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-23
+SURVIVORS (passed all 3 gates)
+-------------------------------
+NOK — 2 REAL catalysts
+  Top REAL catalyst: Optical+IP FY2026 growth guidance (18-20%) reaffirmed at today's Q2/H1 2026 print; Optical +20% YoY, IP +16%, AI&Cloud sales +105% YoY | Timing: 0-6mo (next confirmation Q3'26 earnings, ~Oct 2026) | Source: Nokia Q2 and Half Year 2026 Report (nokia.com/newsroom, 2026-07-23)
+  Quality gate: 3/4 pass (ROIC ~0.4-6.2% fails 15% bar; FCF positive 3 of 4 confirmed quarters, Q2 figure not located; net cash €3.4B; Revenue +8.4% YoY Q2'26)
+  Red flags noted: MEDIUM — split between Mobile Networks share erosion to Ericsson/Samsung (segment margin down to 2.8%) and GAAP operating margin at -1.0% in Q2'26 on accelerated restructuring despite comparable-margin expansion
+
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: FY26 Q4 earnings report, scheduled 2026-07-29 (not yet reported), consensus revenue ~$89.3B/+16.8% YoY, EPS $4.21 | Timing: 0-6mo | Source: Microsoft IR (microsoft.com/en-us/investor/events/fy-2026/earnings-fy-2026-q4)
+  Quality gate: 4/4 pass (ROIC ~21-26% TTM; FCF positive all 4 quarters despite heavy capex; Net Debt/EBITDA ~0.5-0.6x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin compressed to 67.6% (narrowest since 2022) on AI-infra depreciation/$190B FY26 capex guide, tied with pending Copilot-disclosure securities class action (lead-plaintiff deadline 8/11/26)
+
+SKIPPED
+-------------------------------
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail persists — Arthur Levinson's $86.75M unscheduled sales (5/6/26 + 5/27/26) remain inside the trailing 90-day window as of 7/23/26 (age out 8/4/26 and 8/25/26); all 4/4 binary quality checks otherwise pass (ROIC ~38-41%, FCF $129B TTM, near-zero leverage, revenue accelerating +17% YoY)
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags persist — revenue deceleration now 5 straight quarters (17%→16%→16%→13.4%→11.7% guided Q3'26); stock at fresh 52-wk lows (~$68-70) after 7/17/26 guidance-driven selloff, repeated analyst PT cuts (Baird $120→$90, Oppenheimer to $85)
+UBER — Failed at Stage 1 — reason: flipped from SURVIVOR yesterday — 1 HIGH (DoorDash's ~3x US delivery-share lead + escalating Uber-Waymo regulatory conflict + newly announced $14.8B Delivery Hero acquisition's antitrust/execution risk, stock -1.7% 7/23/26) plus 2 MEDIUM (mixed guidance/EPS pattern, reported revenue deceleration 20%→14%) trigger skip with no differentiated bear-case edge
+
+---
+
 ## 2026-07-22
 SURVIVORS (passed all 3 gates)
 -------------------------------
