@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-24
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: FY26 Q4 earnings + FY27 guidance, scheduled 2026-07-29 after market close (not yet reported) | Timing: 0-6mo | Source: Microsoft Source, news.microsoft.com/source/2026/07/08 (2026-07-08)
+  Quality gate: 4/4 pass (ROIC 21.1% TTM; FCF positive all 4 quarters, Q3 FY26 ~$15.8B; Net Debt/EBITDA 0.19x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: HIGH — gross margin compressed 69%→68%→67.6% and operating margin 49%→47.1%→46.3% across Q1-Q3 FY26 on AI-infrastructure depreciation; Q4 FY26 op margin guided to ~44% (CNBC, 2026-04-29)
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail (ROIC ~0.4-4.6% TTM vs 15% bar; Q2'26 FCF swung negative to -€732M from +€629M in Q1'26) despite Quality Floor passing (net cash €2.776B, revenue +9% YoY, guidance raised not cut)
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail persists — Arthur Levinson's $86.75M unscheduled sales (5/6/26 + 5/27/26) still inside trailing 90-day window as of 7/24/26 (age out 8/4/26 and 8/25/26); all 4/4 binary quality checks otherwise pass (ROIC 49.68%, FCF $129.2B TTM +31% YoY, net cash position, revenue +17% YoY)
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags persist — revenue deceleration now 5 straight quarters (17%→16%→16%→13.4%→11.7% guided Q3'26); stock still near 52-wk lows (~$69) after 7/16/26 Q2 miss/guide-down, Baird PT cut to $90, Bernstein cut ~9%
+UBER — Failed at Stage 1 — reason: 2 HIGH flags — $14.8B Delivery Hero acquisition (signed 7/16/26, not expected to close until H2 2027) carries antitrust/execution/dilution risk, plus escalating Uber-Waymo conflict (Phoenix partnership dissolved 6/29/26, dueling DC/state lobbying, NHTSA compliance deadline end of July 2026)
+
+---
+
 ## 2026-07-23
 SURVIVORS (passed all 3 gates)
 -------------------------------
