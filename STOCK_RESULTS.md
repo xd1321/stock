@@ -7,6 +7,35 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-25
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Azure reacceleration as new AI-datacenter capacity comes online in 2H CY2026 (Azure grew 40% YoY in Q3 FY26 vs. its own 37-38% guide) | Timing: 6-12mo | Source: Microsoft Q3 FY26 earnings call; CNBC 2026-04-29
+  Quality gate: 4/4 pass (ROIC 21.49% TTM; FCF positive all 4 quarters though contracting sharply on capex, $25.7B→$5.9B→$15.8B Q1-Q3 FY26; Net Debt/EBITDA ~0.06x; Revenue +18% YoY Q3 FY26)
+  Red flags noted: MEDIUM — gross margin at 67.6% (narrowest since 2022) and FCF compression on $190B FY26 capex guide; Q4 FY26 operating margin guided down to ~44% from 46.3%
+
+AAPL — 2 REAL catalysts
+  Top REAL catalyst: Gemini-powered Siri / Apple Intelligence relaunch (iOS 26.4 phased rollout → full conversational AI in iOS 27, Sept 2026); Wedbush estimates $75-100/share not yet reflected in the multiple | Timing: 0-6mo | Source: Wedbush (Dan Ives)/Morgan Stanley notes; CNBC/CNN Jan 2026
+  Quality gate: 4/4 pass (ROIC 38-84% TTM depending on methodology, all sources far above 15% bar; FCF $129.2B TTM +31% YoY; net cash position ~$43.6B; Revenue +17% YoY Q2 FY26)
+  Red flags noted: MEDIUM — structural AI/Siri lag vs. Google Gemini and Samsung, forcing Apple to pay Google ~$1B/year to power a Gemini-based Siri
+
+UBER — 1 REAL catalyst
+  Top REAL catalyst: Advertising business scaling past $2B annualized run-rate, growing 50%+ YoY, high-margin and likely under-modeled by sell-side | Timing: 0-6mo | Source: Uber Q1 2026 earnings materials (investor.uber.com)
+  Quality gate: 3/4 pass (ROIC 8.7-19.3% TTM, sources disagree, fails the 15% bar on majority readings; FCF positive all 4 quarters; Net Debt/EBITDA ~0.49x; Revenue +14% reported/+23% ex UK accounting change)
+  Red flags noted: HIGH — Waymo has taken >25% of gross bookings share in Uber's own SF operating zone and is reportedly exploring ending its commercial partnership with Uber entirely (already split in Phoenix, May 2026)
+
+NOK — 2 REAL catalysts
+  Top REAL catalyst: AI-RAN commercialization with NVIDIA ($1B equity stake, first GPU-based AI-RAN product launched July 2026, cumulative addressable market cited >$200B by 2030) | Timing: 6-12mo | Source: TelecomTV/TechTimes; Nokia Q2 2026 report
+  Quality gate: 3/4 pass (ROIC ~0.4-4.6% TTM, fails the 15% bar decisively across all methodologies; FCF positive on TTM basis but Q2'26 alone was -€732M on a seasonal incentive payout; net cash €2.8B; Revenue +9% YoY Q2'26)
+  Red flags noted: MEDIUM — Ericsson displaced Nokia at Virgin Media O2's UK RAN modernization deal (45% Nokia/55% Ericsson split on a multi-year contract)
+
+SKIPPED
+-------------------------------
+NFLX — Failed at Stage 1 — reason: 1 HIGH (Paramount-WBD merger creates a rival with ~22% US streaming share vs. NFLX's ~21%, right after Netflix itself lost the bidding war for those assets) + 2 MEDIUM (guidance disappointed Street 2 straight quarters, revenue growth decelerating 3 straight quarters 18%→16.2%→13%)
+
+---
+
 ## 2026-07-24
 SURVIVORS (passed all 3 gates)
 -------------------------------
