@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-27
+SURVIVORS (passed all 3 gates)
+-------------------------------
+NOK — 2 REAL catalysts
+  Top REAL catalyst: AI-RAN/Nvidia AI-native 6G commercialization & AI-Cloud order-backlog conversion (€2.8B Q2'26 order intake vs €446M realized sales, doubled YoY; T-Mobile/Nvidia Grace Hopper trials underway) | Timing: 6-12mo | Source: Nokia Q2 2026 Report (nokia.com/system/files/2026-07/nokia_results_2026_q2.pdf); Fierce Network T-Mobile/Nvidia AI-RAN coverage
+  Quality gate: 3/4 pass (ROIC ~0.4-6.4% fails 15% bar; FCF TTM positive ~€552M but Q2'26 quarter itself -€732M; net cash €2,776M passes debt test; revenue +9% YoY Q2'26)
+  Red flags noted: MEDIUM — Q2'26 revenue missed consensus ($5.49B vs $5.59B est.) and stock fell >5% on cautious outlook/legacy Mobile Networks weakness despite the EPS/op-profit beat
+
+SKIPPED
+-------------------------------
+MSFT — Failed at Stage 1 — reason: 1 HIGH (active securities-fraud class action from Jan 28, 2026 Azure-slowdown/Copilot-shortfall disclosure that caused a 10% one-day stock drop; lead-plaintiff deadline 8/11/26, still unresolved) + 2 MEDIUM (gross margin fell to 67.6%, narrowest since 2022, Q4 FY26 operating margin guided down to 44% from 46.3%; Google Cloud growing 63% YoY vs Azure's 40%, anchor customer OpenAI — 45% of $625B+ RPO backlog — diversifying to AWS/Oracle) — no differentiated bear-case edge, priced into ~20-24% YTD decline
+AAPL — Failed at Stage 2 — reason: Quality Floor auto-fail persists — director Arthur Levinson's combined $86.74M unscheduled, non-10b5-1 open-market sales (5/6/26: $71.19M + 5/27/26: $15.55M) remain inside the trailing 90-day window as of 7/27/26 (5/6 sale ages out 8/4/26); otherwise 4/4 binary quality checks pass (ROIC ~50-55% TTM, FCF $129.2B TTM +31% YoY, net cash position, revenue +17% YoY Q2 FY26)
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — revenue deceleration continues (Q2'26 +13% YoY vs Q1'26 +16%, Q3'26 guide implies ~12%); Q3'26 revenue guide of $12.86B came in ~1.2% below consensus, triggering a ~9% after-hours drop on the 7/16/26 print, compounded by continued pullback in subscriber/engagement-metric disclosure right as growth slows
+UBER — Failed at Stage 1 — reason: 1 HIGH (Waymo confirmed ending exclusive robotaxi partnership in Phoenix/Atlanta/Austin, targeting independent app by Jan 2028; stock -11% over 6 sessions since 7/24/26 report, ~35% off 52-wk high) + 2 MEDIUM (DoorDash ~56-67% vs Uber Eats ~23% US delivery share; reported revenue growth decelerated 20%→14% YoY into Q1'26, ~9pp of which is a UK accounting reclassification) — no differentiated bear-case edge, fully priced into the drawdown
+
+---
+
 ## 2026-07-26
 SURVIVORS (passed all 3 gates)
 -------------------------------
