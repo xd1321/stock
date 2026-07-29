@@ -7,6 +7,21 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-29
+SURVIVORS (passed all 3 gates)
+-------------------------------
+None
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2 of 4 quality checks fail — ROIC ~0.44-1.99% TTM (vs ~15.55% WACC, far below 15% bar) and FCF fail (Q2'26 quarter FCF -€732M on restructuring/incentive-payout outflows); net cash €2.8B passes debt test, revenue +9% YoY passes; Stage 1 clean (no HIGH — worst MEDIUM: restructuring program expanded to ~€800M for 2026 with Q2'26 GAAP net income collapsing to €2M; RAN share loss to Ericsson); no unscheduled insider sells, only buys
+MSFT — Failed at Stage 2 — reason: Quality Floor auto-fail — Jan 28, 2026 guidance cut (Q3 op-margin miss, Azure growth guided down, Copilot-seat shortfall) remains inside the trailing 12 months and underlies an active securities-fraud class action (lead-plaintiff deadline 8/11/26, 13 days away); otherwise 4/4 binary quality checks pass (ROIC 27.2% TTM, FCF $72.9B TTM, Net Debt/EBITDA ~0.06x, revenue +18% YoY Q3 FY26); note MSFT reports Q4 FY26 earnings after close today (7/29/26), result not yet confirmed
+AAPL — Failed at Stage 1 — reason: 1 HIGH (director Arthur Levinson's ~$86.7M unscheduled open-market sales, 5/6/26 $71.17M + 5/27/26 $15.55M, still inside 90-day window until ~8/4/26) + 2 MEDIUM (Q3 FY26 gross-margin guide-down 49.3%→46.5-47.5% on DRAM/memory costs; Huawei reclaimed #1 China smartphone share in a shrinking market) — no differentiated bear-case edge; note Q3 FY26 earnings (Tim Cook's final call as CEO) land 7/30/26, not yet reported
+NFLX — Failed at Stage 1 — reason: 1 HIGH (Q3'26 guide of $12.86B/$0.82 EPS missed Street ~$13B/$0.84, stock fell ~8-9% on the 7/16/26 print; underlying FY2025 op-margin cut 30%→29% disclosed 10/21/25 remains inside the trailing 12 months) + 1 MEDIUM (revenue deceleration: +18%→16%→13.4% YoY, Q3'26 guided ~11.7-12%) — no differentiated bear-case edge; note even had Stage 1 passed, Stage 2's Quality Floor would still auto-fail on the still-open 10/21/25 guidance cut
+UBER — Failed at Stage 1 — reason: 1 HIGH (Waymo confirmed 7/24/26 it will end Austin/Atlanta platform exclusivity for an independent app by Jan 2028, Phoenix exclusivity already ended; Tesla robotaxi expanding independently to 7+ cities) + 2 MEDIUM (revenue growth decelerated 20%→14.5% YoY into Q1'26; hedged guidance pattern in 2 of last 4 quarters) — no differentiated bear-case edge; Q2 2026 earnings due 8/5/26, not yet reported
+
+---
+
 ## 2026-07-28
 SURVIVORS (passed all 3 gates)
 -------------------------------
