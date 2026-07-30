@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-30
+SURVIVORS (passed all 3 gates)
+-------------------------------
+NOK — 1 REAL catalyst
+  Top REAL catalyst: H2 2026 operating-profit ramp needed to hit raised FY guidance (€2.1-2.6B) — Nokia must deliver ~€1.70B H2 operating profit (~14.8% margin, up from 7.0% in H1) | Timing: 6-12mo (Q3 report ~Oct 2026, Q4/FY report ~Jan 2027) | Source: ts2.tech "Nokia Faces 72% H2 Profit Hurdle as Ericsson Flags AI Costs" (Jul 2026); Nokia Q2 2026 earnings call transcript (Motley Fool, 23 Jul 2026)
+  Quality gate: 3/4 pass (ROIC ~0.4-6.4% TTM fails 15% bar; FCF TTM positive ~€552M though Q2'26 quarter itself -€732M on incentive payouts/working capital; net cash €2.8B passes debt test; revenue +8% reported/+9% cc YoY Q2'26)
+  Red flags noted: MEDIUM/HIGH — Huawei has overtaken Nokia as the #2 RAN vendor outside China (Ericsson #1), with Nokia specifically losing share in the US market (LightReading; Omdia/Dell'Oro via IEEE ComSoc blog, Aug 2025)
+
+SKIPPED
+-------------------------------
+MSFT — Failed at Stage 2 — reason: Quality Floor auto-fail — the Jan 28, 2026 guidance cut (Azure growth guided down vs. expectations, Copilot-seat miss, 10% one-day stock drop) remains inside the trailing 12 months as of 7/30/26 and underlies an active securities-fraud class action (lead-plaintiff deadline 8/11/26); otherwise 4/4 binary quality checks pass (ROIC ~22% TTM, FCF ~$73B TTM, Net Debt/EBITDA ~0.19x, revenue +17.75% YoY) and Q4 FY26 earnings reported 7/29/26 after close beat Street with an ~8% stock pop, Azure guided to accelerate to ~45% in Q1 FY27
+AAPL — Failed at Stage 1 — reason: 1 HIGH (director/Board Chair Arthur Levinson's ~$86.7M unscheduled open-market sales, 5/6/26 $71.17M + 5/27/26 $15.55M, both still inside the 90-day window as of 7/30/26; the larger sale doesn't age out until ~8/4/26) + 2 MEDIUM (Q3 FY26 gross-margin guide-down 49.3%→47.5-48.5% on DRAM/NAND cost inflation; explicit management hedging that memory-cost margin impact will worsen) — no differentiated bear-case edge; note Q3 FY26 earnings (Tim Cook's final call as CEO) are due after close today, 7/30/26, not yet reported as of this research
+NFLX — Failed at Stage 1 — reason: 1 HIGH (two guidance shocks in 9 months, each triggering >8% single-day drops: 10/21/25 FY2025 operating-margin cut 30%→29% on a Brazil tax charge, and 7/16/26 Q3'26 guide of $12.86B/$0.82 EPS missing Street ~$13.0B/$0.84) + 2 MEDIUM (revenue deceleration 18%→16%→13%→~12% guided; Amazon Prime Video near US-share parity at 26% vs. 27%) — no differentiated bear-case edge; independently reconfirmed by a Stage 2 Quality Floor auto-fail since the 10/21/25 guidance cut is still inside the trailing 12 months
+UBER — Failed at Stage 1 — reason: 1 HIGH (Waymo ended Phoenix platform exclusivity June 2026 and confirmed 7/24/26 it will end Austin/Atlanta exclusivity for an independent app by Jan 2028; Tesla robotaxi expanding to 7+ more US cities, fleet reportedly doubling monthly) + 2 MEDIUM (revenue growth decelerated 20%→14.5% YoY in Q1'26; mixed guidance/hedging pattern with EBITDA/EPS misses in 2 of last 4 quarters) — no differentiated bear-case edge, competitive threat already well-known and reflected in the stock; Q2 2026 earnings due 8/5/26, not yet reported
+
+---
+
 ## 2026-07-29
 SURVIVORS (passed all 3 gates)
 -------------------------------
