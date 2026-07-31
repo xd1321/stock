@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-07-31
+SURVIVORS (passed all 3 gates)
+-------------------------------
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Multi-partner AV/robotaxi platform expansion (Waymo exclusivity through ~May 2028 in Austin/Atlanta + Nvidia/Lucid/WeRide/Avride/Momenta/Baidu partnerships, targeting 28-city rollout) | Timing: 6-12mo | Source: CNBC (7/24/26) Waymo-Uber exclusivity change; Benzinga (5/26) $10B AV push
+  Quality gate: 3/4 pass (FCF, Net Debt/EBITDA ~0.67x, and Q1'26 revenue growth +14.4% YoY all PASS; ROIC data conflicting across sources 8.7-19.3%, treated conservatively as FAIL)
+  Red flags noted: MEDIUM — Waymo ended Phoenix platform exclusivity (Jun 2026) and will end Austin/Atlanta exclusivity by Jan 2028; Tesla robotaxi expanded to 7 new US cities in H1 2026
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail — ROIC 0.4-6.4% TTM (vs 15% bar, multiple sources) and FCF fail (Q2'26 FCF -€732M breaking the 4-quarter positive streak per Nokia's Q2 2026 report, 7/23/26); net cash position (€2.8B) and Q2'26 revenue growth (+8.3% YoY) both pass; Stage 1 clean (worst flag MEDIUM — Ericsson/Huawei RAN share pressure, though stabilizing per Dell'Oro 2025 data; no unscheduled insider sells, only buys)
+MSFT — Failed at Stage 1 — reason: 2 HIGH flags — gross margin compressed 4 straight quarters (69.1%→67.2%, FY26 Q1-Q4) with FY27 operating margin guided to "decline slightly" amid a ~$175B capex ramp (MSFT Q4 FY26 call, 7/29/26); plus the Jan 28, 2026 guidance cut (Q3 op-margin below consensus, Azure guided down to 37-38%, ~$357B single-day market-cap loss) remains inside the trailing 12-month window as of 7/31/26
+AAPL — Failed at Stage 1 — reason: 1 HIGH (director Arthur Levinson's ~$86.7M unscheduled sales, 5/6/26 $71.17M + 5/27/26 $15.55M, still inside the 90-day window as of 7/31/26, rolling off ~8/4/26) + 2 MEDIUM/HIGH (Q4 FY26 guide of 9-11% revenue growth missed ~12% consensus, Services/Greater China both missed, stock fell ~6-7% after hours on the 7/30/26 print; underlying gross margin fell sequentially 49.3%→~48.1% on DRAM/NAND inflation management called a "100-year flood") — no differentiated bear-case edge beyond what the selloff already priced in
+NFLX — Failed at Stage 1 — reason: 1 HIGH (guidance pattern: FY25 operating-margin cut 30%→29% on the 10/21/25 Brazil $619M tax charge, plus the 7/16/26 Q3'26 revenue/EPS guide missing consensus, causing an ~8% stock drop) + 2 MEDIUM (revenue growth decelerating ~18%→13%→12%E over the last several quarters; named competitive share loss to YouTube [13.4% vs NFLX's 8% of US TV time] and the pending Paramount-Skydance/HBO Max combination) — no differentiated bear-case edge; both negatives largely already priced into a stock down ~39% YoY near its 52-week low
+
+---
+
 ## 2026-07-30
 SURVIVORS (passed all 3 gates)
 -------------------------------
