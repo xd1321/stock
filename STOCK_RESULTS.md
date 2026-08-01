@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-08-01
+SURVIVORS (passed all 3 gates)
+-------------------------------
+UBER — 2 REAL catalysts
+  Top REAL catalyst: Multi-partner AV/robotaxi platform expansion (25+ AV partners incl. Nvidia/Lucid/Nuro/WeRide/Avride/Momenta/Baidu, targeting 15 cities by end-2026 and a 100K-vehicle network from 2027 via Nvidia DRIVE AGX Hyperion 10) | Timing: 6-12mo | Source: NVIDIA Newsroom Uber partnership; CNBC (7/24/26) Waymo-Uber exclusivity change
+  Quality gate: 3/4 pass (FCF ~$9.8B TTM, Net Debt/EBITDA ~0.61x, Q1'26 revenue +14% YoY / gross bookings +25% reported all PASS; ROIC 8.7-12.0% TTM across sources, FAIL vs. 15% bar)
+  Red flags noted: MEDIUM — Waymo ending Uber platform exclusivity (Phoenix ended 6/29/26, Austin/Atlanta to end by Jan 2028) plus NHTSA industry-wide AV safety scrutiny (7/28/26) and a new non-exclusive Lyft/Waymo Nashville tie-up signaling Waymo diversifying away from Uber
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail — ROIC 0.44-6.41% TTM (vs. 15% bar) and FCF fail (Q2'26 FCF -€732M on seasonal incentive payouts, breaking the streak after Q1'26 +€629M); net cash position (€2.8B) and Q2'26 revenue +9% YoY both pass; Quality Floor itself passes but 2+ FAIL triggers SKIP; Stage 1 was clean (worst flag MEDIUM — Ericsson/Huawei RAN share leadership, though Nokia is pivoting toward Optical/IP/AI-Cloud where AI&Cloud sales grew >2x YoY; no unscheduled insider sells, only Article 19 manager buys in late July)
+MSFT — Failed at Stage 2 — reason: Quality Floor auto-fail — the Jan 28, 2026 capex/margin guidance cut (CY2026 capex guided down to ~$175B from ~$190B, soft forward op-margin implied guide, -10% single-day drop / ~$357B market-cap loss) remains inside the trailing 12-month window as of 8/1/26; otherwise a clean 4/4 on binary quality checks (ROIC ~20-26% TTM, FCF TTM ~$73-77B, Net Debt/EBITDA ~0.28x, Q4 FY26 revenue +18% YoY) and Stage 1 was clean (0 HIGH, worst flag MEDIUM — gross margin compression to 67% on AI-infra depreciation, though operating margin has stayed flat-to-up YoY); Q4 FY26 earnings (7/29/26) beat and sent shares up 8-15%
+AAPL — Failed at Stage 1 — reason: 3 HIGH flags — Q4 FY26 gross-margin guide-down to 47-48% (200-300bps sequential hit) on a structural DRAM/NAND memory-cost supercycle Tim Cook called a "100-year flood"; Q4 FY26 revenue guide of 9-11% YoY missed the >12% Street consensus with China/Services both underperforming, triggering a ~10% single-day stock crash on 7/31/26 (worst since 2020) plus explicit CEO hedging ("very significant," "limited options"); and director Arthur Levinson's ~$86.7M unscheduled sales (5/6/26 $71.17M + 5/27/26 $15.55M) still inside the 90-day window as of 8/1/26, rolling off ~8/4/26 — no differentiated bear-case edge beyond what the selloff already priced in
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — guidance pattern (FY25 operating-margin cut 30%→29% on the 10/21/25 Brazil $619M tax charge, plus the 7/16/26 Q3'26 guide of $12.86B/$0.82 EPS missing consensus ~$13B/$0.84, ~8-9% stock drop) and revenue trend (4 straight quarters of deceleration: 18%→16%→13%→11.7% guided, the slowest pace since Q3 2023) + 1 MEDIUM (YouTube now leads US TV viewing time 13.4% vs. NFLX 8.8%; Paramount Skydance-WBD ~$111B combination cleared DOJ 6/12/26, expected to close Q3 2026) — no differentiated bear-case edge
+
+---
+
 ## 2026-07-31
 SURVIVORS (passed all 3 gates)
 -------------------------------
