@@ -7,6 +7,27 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-08-02
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 3 REAL catalysts
+  Top REAL catalyst: Azure/AI cloud demand — Azure annualized run-rate crossed $100B for the first time, +43% YoY (Q4 FY26) | Timing: 0-6mo | Source: Microsoft Q4 FY26 earnings release, news.microsoft.com (7/29/26)
+  Quality gate: 4/4 pass (ROIC ~21-28% TTM, FCF TTM ~$67.0B positive all 4 quarters, Net Debt/EBITDA ~0.19x, Q4 FY26 revenue +18% YoY all PASS)
+  Red flags noted: MEDIUM — gross margin compression 69%→67% across FY26 quarters on AI-infrastructure depreciation/Azure mix shift; the Jan 28, 2026 capex sell-off (-$357B market cap in a day) was a capex-increase scare, not a guidance cut, and Microsoft has beaten guidance every quarter since
+
+UBER — 2 REAL catalysts
+  Top REAL catalyst: AV/robotaxi partner-network expansion — Lucid-Nuro robotaxi live in SF Bay Area since April 2026 (35,000-vehicle Lucid commitment, ~$500M invested), targeting ~15 AV markets by year-end 2026 | Timing: 0-12mo | Source: Yahoo Finance/TechCrunch (Apr-Jul 2026); Uber Q1 2026 earnings call (5/6/26)
+  Quality gate: 3/4 pass (FCF positive 4 straight quarters, Net Debt/EBITDA ~0.66x, Q1 2026 revenue +14% YoY all PASS; ROIC ~8.7-12% TTM FAILs 15% bar)
+  Red flags noted: MEDIUM — Waymo ending platform exclusivity (Phoenix ended 6/29/26, Austin/Atlanta by Jan 2028) plus a non-exclusive Lyft-Waymo Nashville tie-up and Tesla robotaxi expansion to ~12 cities, all running outside Uber's app
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail — ROIC ~0.4-2.0% TTM (vs. 15% bar) and Q2 2026 FCF -€732M (seasonal incentive payout) both fail; net cash position (€2.8B) and Q2'26 revenue +9% cc YoY both pass; Stage 1 was clean (worst flag MEDIUM — Ericsson displaced Nokia in UK operator VMO2's 5G RAN upgrade, April 2026; GAAP Q2 operating loss of €50M on €800M restructuring charges)
+AAPL — Failed at Stage 1 — reason: 2 HIGH flags — adjusted gross margin sequentially compressing (49.3%→48.1%→guided ~46.5%) on a DRAM/NAND cost supercycle (Gartner: 2026 DRAM +125%, NAND +234%) Tim Cook called a "100-year flood," plus director Arthur Levinson's ~$86.75M unscheduled sales (5/6/26, 5/27/26) still inside the 90-day window as of 8/2/26 (rolling off ~8/4/26) — no differentiated bear-case edge
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — revenue deceleration (18%→16%→13%→12% guided over the last 4 quarters, with the 7/16/26 Q3'26 guide of $12.86B missing ~$13B Street consensus) and YouTube overtaking Netflix as the #1 US TV distributor (13.8% vs. Netflix's declining 8.0% Nielsen share) amid a newly consolidated Paramount Skydance-WBD rival — no differentiated bear-case edge
+
+---
+
 ## 2026-08-01
 SURVIVORS (passed all 3 gates)
 -------------------------------
