@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-08-03
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Azure/AI cloud demand acceleration — commercial RPO backlog surged 84% YoY to $678B; Sept-quarter Azure growth guided at 45% cc, above the 40.9% Street consensus | Timing: 0-6mo | Source: Microsoft Q4 FY26 earnings call (7/29/26); CNBC, TradingKey
+  Quality gate: 4/4 pass (ROIC ~21-26% TTM, FCF positive all 4 quarters, net-cash position ~$20B, Q4 FY26 revenue +18% YoY)
+  Red flags noted: MEDIUM — gross margin compressed to 67-68% (multi-quarter trend) on AI-infrastructure spend; FY27 operating margin guided to decline slightly
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail — ROIC ~1-3% TTM (vs. 15% bar) and Q2'26 FCF -€732M (seasonal bonus payout) both fail; net cash position (~€2.8B) and Q2'26 revenue +9% cc YoY both pass; Stage 1 was clean (worst flag MEDIUM — mixed margins, Q2'26 reported operating margin -1.0% on accelerated restructuring charges; insiders were net buyers all year, no sells found)
+AAPL — Failed at Stage 1 — reason: 2 HIGH flags — memory-cost gross margin compression continuing (49.3%→48.1%→guided ~46.5% adjusted) with CFO citing memory costs for the full sequential decline, plus a below-consensus Q4 FY26 revenue guide (9-11% vs. 12.1% Street) that triggered the stock's worst single-day drop among mega-cap tech (-7.35%, 7/31/26); director Levinson's ~$86.75M unscheduled sales were still barely inside the 90-day window as of today
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — revenue deceleration continuing (Q3'26 guide of $12.86B missed ~$13.0B Street consensus, FY26 range narrowed to the low end) and YouTube confirmed as the #1 US TV distributor at 13.8% share vs. Netflix's ~8.0% (now #4), amid a newly DOJ-cleared Paramount Skydance-WBD merger
+UBER — Failed at Stage 1 — reason: 1 HIGH + 2 MEDIUM flags, no offsetting edge — Waymo ending platform exclusivity in Austin and Atlanta (transition through Jan 2028) citing "unsustainable economics" and safety disputes, stock hit a 52-week low (~$66) on the news (7/24/26); revenue growth decelerating (Q1'26 +14.5% YoY, Q2'26 consensus only ~+12.3%); compounded by a large debt-funded ~$13.7-14.8B Delivery Hero acquisition and a second 2026 layoff round
+
+---
+
 ## 2026-08-02
 SURVIVORS (passed all 3 gates)
 -------------------------------
