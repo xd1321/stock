@@ -7,6 +7,23 @@ Format: one entry per day, newest on top.
 
 ---
 
+## 2026-08-04
+SURVIVORS (passed all 3 gates)
+-------------------------------
+MSFT — 2 REAL catalysts
+  Top REAL catalyst: Azure capacity-constrained AI demand — Sept-quarter Azure growth guided at 45% cc, above the 40.9% Street consensus | Timing: 0-6mo | Source: Microsoft Q4 FY26 earnings call (7/29/26); Futurum
+  Quality gate: 4/4 pass (ROIC 21.49% TTM, FCF $66.99B TTM positive, Net Debt/EBITDA ~0.19x, Q4 FY26 revenue +18% YoY)
+  Red flags noted: MEDIUM — gross margin down to 67% YoY on AI-infrastructure spend; FY27 operating margin guided to decline slightly
+
+SKIPPED
+-------------------------------
+NOK — Failed at Stage 2 — reason: 2/4 quality checks fail — ROIC ~2.0% TTM (vs. 15% bar) and Q2'26 FCF -€732M (seasonal incentive payout) both fail; net cash €2.8B and Q2'26 revenue +9% cc YoY both pass; Stage 1 clean (worst flag MEDIUM — reported operating margin -1.0% on accelerated restructuring charges, and Huawei's 31% RAN share vs Nokia's 14%); no unscheduled insider sells found, guidance was raised twice in 2026
+AAPL — Failed at Stage 1 — reason: 2 HIGH flags — below-consensus Q4 FY26 revenue guide (9-11% vs ~12% Street) plus CFO-confirmed memory-cost gross margin compression (48.1%→guided ~46-47% adjusted, Cook's "100-year flood"), triggering a ~7.35-10% single-day drop (7/31/26); director Levinson's ~$86.7M unscheduled sales sit at/near the 90-day window boundary
+NFLX — Failed at Stage 1 — reason: 2 HIGH flags — revenue growth decelerated 17%→11.7% guided over 4 quarters (Q3'26 guide of $12.86B missed ~$13.0B Street consensus by $140M) and YouTube remains #1 US TV distributor at 13.8% share vs Netflix's 8.0% (#4), amid a DOJ-cleared Paramount Skydance-WBD merger adding competitive scale
+UBER — Failed at Stage 1 — reason: 1 HIGH + 2 MEDIUM flags, no offsetting edge — Waymo ending Austin/Atlanta exclusivity (own app by Jan 2028) drove shares to a 52-week low ~$66 (7/24/26); revenue growth decelerating (+20%→+14% YoY, Q1'26) with Q2'26 consensus only ~12.3-12.8%; compounded by a debt-funded ~$14.8B Delivery Hero acquisition and a second 2026 layoff round
+
+---
+
 ## 2026-08-03
 SURVIVORS (passed all 3 gates)
 -------------------------------
